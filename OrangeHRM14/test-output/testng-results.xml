@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-16T12:51:30 IST" name="Default suite" finished-at="2020-12-16T12:51:58 IST" duration-ms="28116">
+    <groups>
+    </groups>
+    <test started-at="2020-12-16T12:51:30 IST" name="Default test" finished-at="2020-12-16T12:51:58 IST" duration-ms="28116">
+      <class name="dec16.NewTest_login_16">
+        <test-method signature="Skill_Test()[pri:0, instance:dec16.NewTest_login_16@703580bf]" started-at="2020-12-16T12:51:30 IST" name="Skill_Test" finished-at="2020-12-16T12:51:58 IST" duration-ms="27955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Skill_Test -->
+      </class> <!-- dec16.NewTest_login_16 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
